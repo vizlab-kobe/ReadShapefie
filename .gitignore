@@ -92,3 +92,7 @@ ThirdParty/shapelib/contrib/Shape_PointInPoly
 ThirdParty/shapelib/contrib/Makefile
 
 ThirdParty/shapelib/contrib/dbfinfo
+
+*.kvs
+
+App/Test/Test

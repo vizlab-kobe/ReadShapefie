@@ -96,3 +96,5 @@ ThirdParty/shapelib/contrib/dbfinfo
 *.kvs
 
 App/Test/Test
+
+App/Viewer/Viewer
